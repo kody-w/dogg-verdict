@@ -1,0 +1,13 @@
+{
+  "schema": "rapp/1",
+  "rappid": "rappid:@kody-w/dogg-verdict:6a210aafc67b2629af81757bb7ef98782414fa269292e0d804cfe4fd4ade15bf",
+  "kind": "node",
+  "name": "dogg-verdict",
+  "host": "github.com",
+  "owner": "kody-w",
+  "repo": "dogg-verdict",
+  "github": "https://github.com/kody-w/dogg-verdict",
+  "parent_rappid": "rappid:@kody-w/dogg:398899d4c850bc28fabe33115c52436def0d485c34753e9bbef06e4c283892b4",
+  "minted_at": "2026-08-25T21:05:59Z",
+  "notes": "First DERIVED doggcast: judgment frames (anomaly z-scores + quiet index) computed from the world dimension's verified history. Minted once per RAPP spec \u00a76.2."
+}

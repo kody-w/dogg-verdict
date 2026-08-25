@@ -1,0 +1,30 @@
+{
+  "spec": "rapp/1",
+  "kind": "verdict.snapshot",
+  "stream_id": "verdict:@kody-w/dogg-verdict",
+  "seq": 0,
+  "utc": "2026-08-25T21:05:59.871Z",
+  "payload": {
+    "tick": 100,
+    "tick_frame": "11a73d59900b5be8151243f4a33ca75854590a4c7cf034b7bbdde16852572bab",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-25T21:05:59.871Z",
+    "verdict": {
+      "verdict": {
+        "z_scores": {},
+        "anomalies": [],
+        "quiet_index": "insufficient-history",
+        "series_evaluated": 0,
+        "method": "z-score of newest value vs own full history, threshold 2.0",
+        "audit": "inputs are dogg-api series rows; every row carries its source frame hash"
+      }
+    },
+    "sources_failed": [],
+    "about": "A federated node of the global tick network: this repo's own verdict outlook, one frame per observed tick, keyed to the spine's tick anchors so it joins every other node's data on the same clock."
+  },
+  "payload_hash": "8c4da21f8380d0623ed53118740d73e97ef63db96b352b55fa5636f8dbe44f82",
+  "prev": null,
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "59be5d4feedac407aace1d0cd94ac558c86861bff6f32254cff85b7c491797ce"
+}
