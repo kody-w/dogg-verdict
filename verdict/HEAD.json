@@ -1,8 +1,8 @@
 {
-  "count": 20,
+  "count": 21,
   "sealed_epochs": 0,
   "epoch_size": 288,
   "stream_id": "verdict:@kody-w/dogg-verdict",
-  "head_frame": "544c525734b3ce947e9890fe316072793d11ec453a411f57e55395fd5602ffea",
-  "updated": "2026-08-26T13:50:25.720Z"
+  "head_frame": "8f558799e2d68626923fb25b277ad0bdb2af8e63d8a6f5da059bad2ab0b0fd94",
+  "updated": "2026-08-26T14:38:09.327Z"
 }
