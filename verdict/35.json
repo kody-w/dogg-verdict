@@ -1,0 +1,34 @@
+{
+  "spec": "rapp/1",
+  "kind": "verdict.snapshot",
+  "stream_id": "verdict:@kody-w/dogg-verdict",
+  "seq": 35,
+  "utc": "2026-08-30T00:30:07.613Z",
+  "payload": {
+    "tick": 646,
+    "tick_frame": "6d1c4f4b91878d88c0e30a165d6e44df643646507ee1a2700d5e1a3a4fb3c16f",
+    "spine": "kody-w/dogg",
+    "fetched_utc": "2026-08-30T00:30:07.613Z",
+    "verdict": {
+      "verdict": {
+        "z_scores": {
+          "btc_usd": "-0.54",
+          "btc_fees": "-0.94",
+          "quakes": "-1.06",
+          "mempool": "-0.64"
+        },
+        "anomalies": [],
+        "quiet_index": "normal",
+        "series_evaluated": 4,
+        "method": "z-score of newest value vs own full history, threshold 2.0",
+        "audit": "inputs are dogg-api series rows; every row carries its source frame hash"
+      }
+    },
+    "sources_failed": []
+  },
+  "payload_hash": "07d4a17d42c0ed3bffa96793841ef5ee72dac427c191a5d41414f3120a314c7b",
+  "prev": "761dde0ecaa7dc98223f8837b09d0cd902fcf5ac895f1e1f72f8d17a9b688faf",
+  "prev_wave": null,
+  "sig": null,
+  "frame_hash": "e0bdd88717a73b4a9f3ce28ca48a9ecfc771fb35c48aaf8d414c77090011ecbb"
+}
